@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajoy Kumar Das</h1>
-<h3 align="center">Currently: Bachelor of technology Student at Gauhati University, Assam</h3>
+<h3 align="center">Bachelor of technology(Information Technology),Gauhati University, Assam</h3>
 
 - 🔭 I'm currently working on **to spend time producing or improving something**
 
